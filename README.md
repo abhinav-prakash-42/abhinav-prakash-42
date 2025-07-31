@@ -44,18 +44,17 @@
 <p align="left"><strong>✨ Wanna build cool sh*t? Let's connect and create something epic together!</strong></p>
 
 <div align="left">
-  <a href="https://www.instagram.com/_._aadiboi_._/" target="_blank">
+  <a href="https://www.instagram.com/abhinav_1842/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo" />
   </a>
-  <a href="mailto:aanandaaditya5@gmail.com" target="_blank">
+  <a href="mailto:abhinav1842prakash@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/aadityaaanand514" target="_blank">
+  <a href="www.linkedin.com/in/abhinav1842" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
   </a>
-  <a href="https://www.facebook.com/share/1AZjKSRpnn/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="facebook logo" />
-    <a href="https://discord.com/users/nihilist514" target="_blank">
+ 
+  <a href="https://discord.com/users/abhinav0912" target="_blank">
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28" alt="Discord Badge" />
 </a>
 </a>
