@@ -64,5 +64,5 @@
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhinav-prakash-42&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aaditya514&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav-prakash-42&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
